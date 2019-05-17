@@ -3,7 +3,7 @@ without creating any volumes.
 
 You can use it with docker or docker-compose.
 
-It demonstrates a read only mount of a writable host directory.
+It demonstrates a read-only mount of a writable host directory.
 
 ### Docker
 ```
